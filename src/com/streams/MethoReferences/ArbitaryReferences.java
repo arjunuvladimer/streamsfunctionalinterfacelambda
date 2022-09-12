@@ -28,11 +28,12 @@ class Company{
                 "}";
     }
 }
+
+
 public class ArbitaryReferences {
     public static void main(String args[]){
         List<Company> lst = new ArrayList<>();
         lst.add(new Company("Wieland IT Solution", 4));
-        lst.add(new Company("Blue Yonder", 5));
         lst.add(new Company("SWAN", 10));
 
         // Getting the year of the companys in a stream

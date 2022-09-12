@@ -39,7 +39,7 @@ public class WellWisher {
 //        sayHello(maratiObj);
 
 // Anonymous Class Objects
-
+//
 //        sayHello(new Language() {
 //            @Override
 //            public void wish() {

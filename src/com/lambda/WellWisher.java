@@ -28,7 +28,7 @@ public class WellWisher {
 
 
 // Object Oriented Approach
-
+//
 //        Language englishObj = new English();
 //        sayHello(englishObj);
 //
@@ -37,8 +37,9 @@ public class WellWisher {
 //
 //        Language maratiObj = new Marati();
 //        sayHello(maratiObj);
-
+//
 // Anonymous Class Objects
+//        Language obj1 = new Language();
 //
 //        sayHello(new Language() {
 //            @Override
@@ -46,6 +47,9 @@ public class WellWisher {
 //                System.out.println("Namashkar");
 //            }
 //        });
+//
+//        60 Min
+//        5:30Min -> 60:00Min,
 //
 //        sayHello(new Language() {
 //            @Override
